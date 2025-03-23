@@ -208,6 +208,7 @@ const (
 	// callbackCommand.
 	CallbackBeforeSendSingleMsgCommand                   = "callbackBeforeSendSingleMsgCommand"
 	CallbackAfterSendSingleMsgCommand                    = "callbackAfterSendSingleMsgCommand"
+	CallbackAfterCreateGroupCommand                      = "callbackAfterCreateGroupCommand"
 	CallbackBeforeSendGroupMsgCommand                    = "callbackBeforeSendGroupMsgCommand"
 	CallbackAfterSendGroupMsgCommand                     = "callbackAfterSendGroupMsgCommand"
 	CallbackMsgModifyCommand                             = "callbackMsgModifyCommand"
